@@ -7,3 +7,6 @@
 - list
 - list
 - list
+- liset
+- ;iset
+- testa
